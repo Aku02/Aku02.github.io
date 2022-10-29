@@ -1,5 +1,0 @@
-@inproceedings{2020spatially,
-  title={ Spatially Aware Multimodal Transformers for TextVQA },
-  author={, Akash and Batra, Dhruv and Anderson, Peter and  Schwing, Alexander and Parikh, Devi and Lu, Jiasen and Agrawal, Harsh},
-  booktitle={ECCV}
-  year={2020}}
