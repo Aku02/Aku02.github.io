@@ -1,1 +1,3 @@
 -- add blog series?
+-- add sony comp details 
+-- add kart dynamics and steering stuff there
